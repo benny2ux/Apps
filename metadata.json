@@ -1,0 +1,6 @@
+{
+  "name": "TIME UP — Connect. Create. Rise.",
+  "description": "Next-generation mobile-first social media platform with 10-person LIVE streaming, creator leagues, interactive face filters, VIP gifter levels, and fan clubs.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
